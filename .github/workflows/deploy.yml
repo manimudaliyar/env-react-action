@@ -9,7 +9,7 @@ env:
 jobs:
   test:
     env:
-      MONGOMONGODB_CLUSTER_ADDRESS: cluster-gha.4leibzg.mongodb.net
+      MONGODB_CLUSTER_ADDRESS: cluster-gha.4leibzg.mongodb.net
       MONGODB_USERNAME: senpai_db
       MONGODB_PASSWORD: ZDBkkzDPMhWz6req
       PORT: 8080
